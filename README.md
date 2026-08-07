@@ -25,6 +25,12 @@
 
 <br>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=00F3FF&center=true&vCenter=true&width=560&lines=Software+Engineer+%2F%2F+Enterprise+Systems;Java+%C2%B7+Oracle+APEX+%C2%B7+React+%C2%B7+SQL+%2F+PLSQL;Optimizing+queries%2C+shipping+reliable+systems;Status%3A+Online+%E2%80%A2+Nonthaburi%2C+Thailand" alt="Typing status line">
+</div>
+
+<br>
+
 ```text
 > PROFILE_BOOT: SUCCESS
 > ROLE: Software Engineer
@@ -94,7 +100,9 @@ I care about code that survives production — observable behavior, maintainable
 <img src="https://img.shields.io/badge/Cypress-121212?style=flat-square&logo=cypress&logoColor=39ff14">
 </p>
 
-<br>
+<div align="center">
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:ff35a2,100:0a0a0f&height=6">
+</div>
 
 ## 04 // Featured Build
 
@@ -139,7 +147,13 @@ Open to conversations about **enterprise software**, **database performance**, *
 ---
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Surasinz/Surasinz/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%">
+</div>
+
+<div align="center">
 
 `SURACHET_BUILDER_NODE // ONLINE`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Surasinz&color=00f3ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
