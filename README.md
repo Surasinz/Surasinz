@@ -39,6 +39,10 @@
 > STATUS: Building reliable software with measurable business impact
 ```
 
+<div align="center">
+<img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&font=fira_code&width=560&height=70" alt="Quote of the day">
+</div>
+
 <br>
 
 ## 01 // About
@@ -99,6 +103,12 @@ I care about code that survives production — observable behavior, maintainable
 <img src="https://img.shields.io/badge/MySQL-121212?style=flat-square&logo=mysql&logoColor=00f3ff">
 <img src="https://img.shields.io/badge/Cypress-121212?style=flat-square&logo=cypress&logoColor=39ff14">
 </p>
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surasinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f3ff&text_color=ffffff&langs_count=8" alt="Top languages">
+</div>
+
+<br>
 
 <div align="center">
 <img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:ff35a2,100:0a0a0f&height=6">
