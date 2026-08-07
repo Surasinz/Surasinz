@@ -1,17 +1,15 @@
 <!--
-  GitHub Profile README for [https://github.com/Surasinz](https://github.com/Surasinz)
+  GitHub Profile README for https://github.com/Surasinz
   Theme: AGGRESSIVE CYBERPUNK / EDGERUNNER
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-light.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-light.svg)">
-  <img width="100%" alt="Surachet Panto — Software Engineer and Enterprise Builder" src="[https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-light.svg">
+  <img width="100%" alt="Surachet Panto — Software Engineer and Enterprise Builder" src="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg">
 </picture>
 
 <br>
-
-<div align="center">
 
 ```text
 ███╗   ██╗███████╗████████╗██████╗ ██╗   ██╗███╗   ██╗███╗   ██╗███████╗██████╗ 
@@ -23,13 +21,15 @@
 > UNAUTHORIZED ACCESS DETECTED. INITIATING OVERRIDE...
 ```
 
-<a href="[https://surachetresume.netlify.app/](https://surachetresume.netlify.app/)"><img src="[https://img.shields.io/badge/NEURAL_LINK-ff003c?style=for-the-badge&logo=netlify&logoColor=0a0a0f&labelColor=fcee09](https://img.shields.io/badge/NEURAL_LINK-ff003c?style=for-the-badge&logo=netlify&logoColor=0a0a0f&labelColor=fcee09)" alt="Portfolio"></a>
-<a href="[https://www.linkedin.com/in/surachet-panto/](https://www.linkedin.com/in/surachet-panto/)"><img src="[https://img.shields.io/badge/DATABANK-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00f3ff&labelColor=1a1a1a&color=00f3ff](https://img.shields.io/badge/DATABANK-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00f3ff&labelColor=1a1a1a&color=00f3ff)" alt="LinkedIn"></a>
-<a href="mailto:surachetpan@hotmail.com"><img src="[https://img.shields.io/badge/COMMS-0a0a0f?style=for-the-badge&logo=microsoftoutlook&logoColor=ff003c&labelColor=1a1a1a&color=ff003c](https://img.shields.io/badge/COMMS-0a0a0f?style=for-the-badge&logo=microsoftoutlook&logoColor=ff003c&labelColor=1a1a1a&color=ff003c)" alt="Email"></a>
+<div align="center">
+
+<a href="https://surachetresume.netlify.app/"><img src="https://img.shields.io/badge/NEURAL_LINK-ff003c?style=for-the-badge&logo=netlify&logoColor=0a0a0f&labelColor=fcee09" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/surachet-panto/"><img src="https://img.shields.io/badge/DATABANK-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00f3ff&labelColor=1a1a1a&color=00f3ff" alt="LinkedIn"></a>
+<a href="mailto:surachetpan@hotmail.com"><img src="https://img.shields.io/badge/COMMS-0a0a0f?style=for-the-badge&logo=microsoftoutlook&logoColor=ff003c&labelColor=1a1a1a&color=ff003c" alt="Email"></a>
 
 <br><br>
 
-<img src="[https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=%3E_SYS.BREACH+DETECTED...;%3E_IDENTITY%3A+SURACHET+PANTO;%3E_CLASS%3A+ENTERPRISE+ENGINEER;%3E_LOC%3A+NONTHABURI%2C+TH;%3E_STATUS%3A+GHOST+IN+THE+MACHINE](https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=%3E_SYS.BREACH+DETECTED...;%3E_IDENTITY%3A+SURACHET+PANTO;%3E_CLASS%3A+ENTERPRISE+ENGINEER;%3E_LOC%3A+NONTHABURI%2C+TH;%3E_STATUS%3A+GHOST+IN+THE+MACHINE)" alt="Typing status line">
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=%3E_SYS.BREACH+DETECTED...;%3E_IDENTITY%3A+SURACHET+PANTO;%3E_CLASS%3A+ENTERPRISE+ENGINEER;%3E_LOC%3A+NONTHABURI%2C+TH;%3E_STATUS%3A+GHOST+IN+THE+MACHINE" alt="Typing status line">
 
 </div>
 
@@ -56,9 +56,9 @@ I care about code that survives production — observable behavior, maintainable
 ## `// 02_DATA_IMPACT`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-light.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-light.svg)">
-  <img width="100%" alt="Engineering impact overview" src="[https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-light.svg">
+  <img width="100%" alt="Engineering impact overview" src="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg">
 </picture>
 
 <details>
@@ -136,8 +136,8 @@ I care about code that survives production — observable behavior, maintainable
 
 A bilingual cyberpunk portfolio built as a production interface rather than a static resume. Includes adaptive themes, Matrix rain and liquid canvas effects, an Unreal-rendered intro, accessible motion controls, React Router data routing, interactive 3D content, an Impact Dashboard, and an Interview Terminal.
 
-<a href="[https://surachetresume.netlify.app/](https://surachetresume.netlify.app/)"><img src="[https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-ff003c?style=for-the-badge&logo=netlify&logoColor=0a0a0f&color=fcee09](https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-ff003c?style=for-the-badge&logo=netlify&logoColor=0a0a0f&color=fcee09)"></a>
-<a href="[https://github.com/Surasinz/ResumeReact](https://github.com/Surasinz/ResumeReact)"><img src="[https://img.shields.io/badge/INSPECT_SOURCE_CODE-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff&color=2b2b2b](https://img.shields.io/badge/INSPECT_SOURCE_CODE-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff&color=2b2b2b)"></a>
+<a href="https://surachetresume.netlify.app/"><img src="https://img.shields.io/badge/EXECUTE_LIVE_SYSTEM-ff003c?style=for-the-badge&logo=netlify&logoColor=0a0a0f&color=fcee09"></a>
+<a href="https://github.com/Surasinz/ResumeReact"><img src="https://img.shields.io/badge/INSPECT_SOURCE_CODE-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff&color=2b2b2b"></a>
 
 </td>
 </tr>
@@ -169,13 +169,13 @@ Open to communications regarding **enterprise architecture**, **database perform
 ---
 
 <div align="center">
-<img src="[https://raw.githubusercontent.com/Surasinz/Surasinz/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Surasinz/Surasinz/output/github-contribution-grid-snake-dark.svg)" alt="Contribution snake" width="100%">
+<img src="https://raw.githubusercontent.com/Surasinz/Surasinz/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%">
 </div>
 
 <div align="center">
 
 `NETRUNNER_NODE // ACTIVE_SESSION`
 <br><br>
-<img src="[https://komarev.com/ghpvc/?username=Surasinz&color=ff003c&style=for-the-badge&label=DATA_BREACHES](https://komarev.com/ghpvc/?username=Surasinz&color=ff003c&style=for-the-badge&label=DATA_BREACHES)" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Surasinz&color=ff003c&style=for-the-badge&label=DATA_BREACHES" alt="Profile views">
 
 </div>
