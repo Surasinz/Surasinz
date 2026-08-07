@@ -39,10 +39,6 @@
 > STATUS: Building reliable software with measurable business impact
 ```
 
-<div align="center">
-<img src="https://github-readme-quotes-chi.vercel.app/api?type=horizontal&theme=tokyonight&font=fira_code&width=560&height=70" alt="Quote of the day">
-</div>
-
 <br>
 
 ## 01 // About
@@ -105,7 +101,21 @@ I care about code that survives production — observable behavior, maintainable
 </p>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sin20.vercel.app/api/top-langs/?username=Surasinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f3ff&text_color=ffffff&langs_count=8" alt="Top languages">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,spring,oracle,mysql,python,cypress&theme=dark" alt="Skill icons">
+</a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Surasinz&theme=tokyonight&hide_border=true&background=0A0A0F&ring=00F3FF&fire=FF35A2&currStreakLabel=00F3FF" alt="GitHub streak stats">
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Surasinz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies">
 </div>
 
 <br>
