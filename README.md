@@ -15,107 +15,24 @@
 
 ```text
 
-!!!!!!!!!!iiii>>>>>>>>>>>i>>>>>><~~~<~+__ii___-_+++_-+_--_-_----???-_____+++___+~~+++__++~~~++~+~~++
-!!!!!!!iiii!ii>>>>><<>;<~<<<~<<~~~~~~+_--?_|Y{____--??;+?------??-__-_+__+++_--_++++++__++++++++++++
-!!!ii!iiii>>>>>><<<<<<<Uafi<+~~~++~+__-_??][-*Mu<--??]?10<?--_-??-_____---_-_--____+++_++++++___~+++
-iiiiiiiii>>>>>>><<~<<~~[hWWWWaqQUn\[<<--????]+CWMQ_-??]+Zo{--_--?---?+~>-??-_-______-__-___+++++++++
-!!iii>i>>>>>>>>>><~~++++rWWWWWWWWWWWWWWoX{?-??+qWWMv~?]?/W#~-?????(0p1}}[]??--?-----?-----_--?-_____
-iiiii>>>><<>>><<<<~<~++-<YWWWWWWWWWWWWWWWWWaui-ihWWWh]???WWb~]?>J#a(]]?]]?]]??]]?]]?--?---__---?-__+
-iiii>>>>>><<<<<<<<<<<<~++~LWWWWWWWWWWWWWWWWWWWO?)MWWWo--?WW#)~zMWQ+[]-++++~_?]]]][[]?---???------_++
->>>>>>>>><<<<<<+~~i;!><+__!QWWWWWWWWWWWWWWWWWWWWQqWWWWW}\WWMfoWWX+~u#WWWWWWW#O-!-[[[]?-?--??-???--__
-><<<<<I!<~~<<<~~~~~++<_jakL]rMWWWWWWWWW#0zUUtcdWWWWWWWWqpWWW#WWmmMWWWWWWWO)]}{{1{{{}[][]]?]]]???-___
-<<<<<~<Upf[_~<<<<<~+-?-+<>JW#JoWWWWWW0naWOYMWWWWWWWWWWWWWWWWWWWWWWWWWWkt+1){[][1{1{{{}}{}[?+?]]--___
-<>>~<<~?bWWWWMMMMMWWWWWWW#oaoWWWWWW#[oWMf*WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW#okJ/[_++<+1U(-]?-_____
->><<~++_[#WWWWWWWWWWWWWWWWWWWWWWWWWc#WWZbWW*LUJCLCJJJQoWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWn-??_---_--
-<~~+++__-_qWWWWWWWWWWWWWWWWWWWWWWWMvWWWmaqvMWWWWWWWWWWWOjkMWWWWWWWWWWWWWWWWWWWWWWWWWWWWd>[]----?]?--
-+-?-_-__-__(#WWWWWWWWWWWWWWWWW*QuncJtWWwthWWWW0nCwddddwLzQQYMWWWWWWWWWWWWWWWWWWWWWWWWw-]{[]?--?]]?]]
-++_-?--?--??_xkWWWWWWWWWWWM0vwMWWWWW#qWWMWMOJ#WWWWWWWWWWWWMmzkWWWWWWWWWWWWWWWWWW*wz-l?}}[]]]]]]??]]]
-___?-????~i~}11)/QaWWWWWW0JM0(fvcufcoWWWWW#*aJtkWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWM#*U<?[[][[[[]]?
-___-+)cZpdaWWWWWWWWWWWWhrzO#WWWW#U0Mb*WWMWWWWWWMCYMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMq/l<+[><[[[[[]]]
---+!<_-_----<!{0WWWWWW#n*WWWWWWMn*WQCWWWWLcYbMWWWWLLWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWd]?[]][[}[][}
-]--___--?~\d#WWWWWWWWWMWWWWWWWWnoW*xdWWWWWMowYvnkWW#CQMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW*c>[{{{{}{1
-----??+(ZWWWWWWWWWWWWWWWWWWWWWWj#WorZWWWWWWWWWWMhOzJOhYO#WWWWWWWMb*WWWWWWWWWWWWWWWWWWWWWWWWWdf[?{1))
-__-~?qWWWWWWWWWWWWWWWoWWWWWWWWWhnWWvv*WWWWWWWWWWWWWWWW*Jj?LWWWWWWWon#WWWWWWWWWWWWWWWWWWWWWWWWWWWWhOL
-QpMWWWWWWWWWWWWWWWoQaWWwOWWWbhWWpXWMuzMWWokWWWWWWWWWWWWWWWWWWWWWWWWWhz#WWW#mMWWWWWWWWWWWWWWWWWWWWMdx
-qa#WWWWWWWWW#*WW#zkWWoraWWWa0W*pWMnQMO/hW*JWWmWWW*dWWWWWW#bMWWWWWWWWWWQY#WW*J#WWWWWWWW#MWWM#*aqLX/_)
-+[UJJCCCCLLzkWWox#WWocMWWWM(WWqoWWW#ptqp/pvZWbOWWWhCMWWWWWWOmWWWWWWWWWWk)ZMWMtqWWWWWWWMpCCJCCU{_111)
----+}tzJJuqWWWqCWWWZcWW*#WXhW#UWWWqaWWWbYL((0WzqWWWLzpWWWWWWQUhWWWWkZ#WW#/UbW#u0#W#bMWWWWhj>}())1111
-_--?][}[QWWWWMcWWWpcWWMZW#vWWQJWW#u*WWWhC*0>UoLXmWWW(xJaWWWWWnUOMWWWdYbWWbfJqWd\LoWmJCdMWWW#x-))(111
-???]]-x#WWWMq)#WMm)aW#c*WQXWbCYWWpraWWWbJOk>fJw\U0MWo?tJ0oWWWdrULoWWMCJQ*WJ\JOMvvJm#0CCCCQmaW#j{)11}
-???[+QWWWhQCxdWWmrQWWmcWdvUWZUjWMOtOWWWbJcmt]YJz1UChWzj1XJ0oWWvnJJbWWkjJJdM{|Jw#\JJCqLCCCCCCCOoq]{1)
-]]][*WWpJJJJc#WmJ|WWkvp#Q{uML]|o#Q(rWWWbJ|Jz|{cU|[JJLo?v/tJJL#b](UJkWW/YJJpmr)cwuYCCCCCCYUCCCJJCZ-{{
-??+bMwCJCCCJUWkCXnW*UnbkX-u#z_rq*L1]OWWkJ1nz\Yjcvt\nJJL)ux(rvXQJ})UJaWd-YJJCnJfzxzCCCCCCC}}{[?[)fY-{
-?+owUXx}<l(CLWLJ/nWqJrwO)n/kjfY)aC\1/ZMaLr?UtYJz\rxv<|YxuUUz|YUUfc[YCoM/[XJYfCCt/XJCCCCCCU-}{}}}{1>?
--r}?][}}-tCCQqCn|vMOJxjX]c|}[zQJ|Jn/|nCbQv/{uj0Zt[|vUz{c/cvucu/Yxcv|UmWfCtcUfCCCtXCCCCCCCCC{1)1){}}}
-!]][[}[?/CCCLCU{Jt#LJf<c(UU{)Yjrj\z/U\XJCz|z/1(YCCc1/ut+::,,l!I^(?\j|JafJY]Y(xxvUJCCCCCCCCCJ|{)111{{
--?]]?][?CCCz|CxcJfZJJ/X](Ucf>JJtcJ<[qm)nJJ(JXX1UuYht'":I;;;;;zXn.-UY|xzrJxv}UkahtCCCCCCCCCCCCJ111{1{
---_---)CU|?}{JfXCY1JJ|X{'|zYY_-:I{n}rakz/JztkaOUqvixY/#h<",I;\oL?dQUu(/XJtp(jYrhCYCCCc~{)111{[?]}[}[
----?+]?+][[}-v|JY]UjU_/Y+_*MquMt:;:fqmaaaznjpaaaQcm**<:il^^<[)MtbaaZz/1Cjz\zZJzm0UCCJCX_}}[}[[}[}{[[
-_-__-???][[}}+(C(!Yu\/\vh/mWa,?+^,>]JoaaaahLxaaaa#WWWx_r\_?x(q*haaaaCcYvUfvjchkkLYCCltC1[[}[[[[}}}}}
--__-----??[[}[|)-]-z!~xrqhLMWY+t?~|jMoaaaaaaaaaaaaMWWWz1ucv)JbaaaaaanYUvhnuv/waacYCJi{+\[]][}]]}[}[[
-___----??][][<]-][]{?-\cvaaaMWC{cXnY*aaaaaaaaaaaaaaop#MM*kobQaaaaaaa(cvktxuvtaaLrCCJ!{{<[[[[[]?]][[[
--------??]][_-][[}[~~}+c1haaamLbd0Qkaa0aaaaaaaaaaaaaaaadqdhaaaaaaaap]mwfvu/UhbrUtJCLi{}][[[[[]][[[]]
-__-_--?]]]][]][[}1{}}}}[tvaaaaaaaaaahn(aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaprrmabvUC_[~|cj-[[][[[[[}}{[[]
-_____-???][[[[}}}[}[[}}}-_haaaaaaaaaO~waaaaaaaaaaaaaaaaaaaaaaaaaaaahwaaaabrUYC\?[}}}}]]][]][[[[[[]]?
-__+__---?]}}[[}[[[[}}}[}}]ZaaaaaaaaaaO/Qaaaaaaaaaaaaaaaaaaaaaaaaaaw-r//fjXC}_J][[[[[[[]]]]]][[][]]]?
--__+__--][}}[[[[][}{[}[}{[zaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaZ~xCCJYJU-{?{-}][]]]????]]]][[]]???
-__-___?]]][[}}[[[[[[[[}}{{-qaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaakn]+JCJJ_Y/[{}]-}][[[]?????[[}{}[]??-
-_-------??[[[[[]?]]]]][[}{{?rkaaaaaaaaakLadwZpaaaaaaaaaaaaaaabU(zftC|u>]{{}}[[[[[[]?-?-??][[{{}[??--
-__---_-???]]]][[???]]][}1{11}[1daaaaaaaaaaaaahhaaaaaaaaaaaadx)YUU{U)--[}}-[}}}}}][]??-???]?]][??-??-
-___----_--?]?]?]]???][}}}[}{}}{{}rdaaaaaaabmbaaaaaaaaaaakU11zUUUU+i,,";~{{}}[{}[]??-?]]]?[[[]]??----
-----_-__?--??????-???][[[[[}}][}{11-udaaaaaaaaaaaaaaakL1~fcYUUUYv~^,,,,I]}}}}[[]???-??]]]]??]]?-?-__
-_____---??????----??]]][[]][][[[[{}{{}}ukaaaaaaaaahL[i1txXYUu?!::::::;^-}}}}{{[]]]]]?]]]???]]]]-----
-_++_-___-?]]???????][]][]]][[][}}}}{1{]>,+YbahdLf>"_tffjt-:,:::::::;!;+{}}}}}{}[[[[[][]???][]??--___
-________-?]]]-??--??]]][]]]]]??][[{{-,:,"""^'''`?/t}l",::::::::::;!!!;;[[{{[[[}[}}{{}[?????]]??]--__
-+++__+_-???]?-----]??]][]]]]]?]][][[^:::,"^^;<iI,,:::::::::::::;l!!!!!!i[}[[[[}}[{{}[[]]]???--------
-~~~~___---??-----???]?]]]][]]][[[[[[[;::::::::::::::::::::::::l!!!!!!!:!ft~?][}[]][[]][????_-----_--
-+~++_-----???--?-?]]]]]]]]]]][[]][][[],"::::::::::::::,,,:::l!!!!!!l,I/xUbkO1<[]]][[]][[?]?--_-----?
-++++___??_??]???-???][[]][][]]]]][[]+{?,",::::::::::,,,::;l!!!!!l;,l|UwkhhhhhhbU/}_][[[}}[]]]?--_-?]
-+++___-?????]]--_----][][[[[}[}}[~/vj\,::,,::::,:,"::::;!!!!!I"l!lfbhhhhhhhhhhhhhhhhZ1~][[[]]]?-__-]
-++___-?]?--?]--??----?]]]][}_]vOkkOrr-^:::::::,,:::::l!lI:,,I!!!zkhhhhhhhhhhhhhhhhhhhhhkOf~??------?
-_--_--???--??]?-]]?]??}]]1ckhhhhhkUrr>:"",:::::::::::,",;l!!!>XkhhhhhhhhhhhhhhhhhhhhhhhhhhhZ}_----??
-__-__------_-?--?]-?[-Xdhhhhhhhhhhqrq;I:,,",::,,"",,:l!!!!!!XkhhhhhhhhhhhhhhhhhhhhhhkzcqdbhhhQ+--???
----_--__----__-??]]-LkhhhhhhhhhhhhkmkI!!l;::::::;l!!!!!!!~YhhhhhhhhhhhhhhhhhhhhhhhbcOhhhhhhhhhU<?---
-__-____++_-_-___-]_mhhhhhhhhhhhhhhhhhl!!!!!!ll!!!!!!!!!+Ohhhhhhhhhhhhhhhhhhhhhhhhbjbhhhhhhhhhhhv<___
-___+___-----____?~phhhchhhhhhhhhhhhhk_!!!!!!!!!!!!!!!-Ohhhhhhhhhhhhhhhhhhhhhhhhhmuhhhhhhhhhhhhhk{+__
-+_+_____---___--_zkhhOChhhhhhhhhhhhhh(!!!!!!!!!!!!l-Ohhhhhhhhhhhhhhhhhhhhhhhhhhhubhhhhhhhhhhhhhhz+-_
-++__-_+++____-???qhhkUqhObhhhhhhhhhhkc!!!!!!!!!!!~wkhhhhhhhhhhhhhhhhhhhdkhhhhhh1bhhhhhhhhhhhhkhhp>__
-+__+___-???-?]]_ndkhhzddXhhhhhhhhhhhhd!!!!!!!!!)mhhhhhhhhhhhhhhhhhhhhhhObhhhhhcphhhhhhhhhhhhhkqhkt+_
-+~+++___+_---??ikJbhhrbQZhhhhhhhhhhhhhQI!!!!!]phhhhhhhhhhhhhhhhhhhhhhhkYkhhhhZXhhhhhhhhhhhhhhh0Ohql~
-~~~~++++_+_--_~nku0kwxhnkhhhhhhhhhhhhhh/l!l]qhhhhhhhhhhhhhhhhhhhhhhhhhUYhhhhmjhhhhhhhhhhhhhhhhdnQk[~
-~~~~+__++__-__-wkxYbLuCJhhhhhhhhhhhhhhhp_[ZhhhhhhhhhhhhhhhhhhhhhhhhhhqvXkhhdvhhhhhhhhhhhhhhhhhkLuLj<
-+_++~_?-+_--?>khkucmYv)hhhhhhhhhhhhhhhhhkhhhhhhhhhhhhhhhhhhhhhhhhmhhhQvvkhkvmhhhhhbhhhhhhhhhhhhkuu\>
--_____---??-<LkkkL/UJ\UkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhkXkkCvnkkzOhhhhhQdhhhhhhhhhhhhhmtt~
-______-?----?dhOkk[vz-qhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhuZhQvxkZQhhhhhwUhhhhhhhhhhhhhhkq{<
-+++++++___-~XkkJqkjxc1bhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhCxwZvrdXbhhhhbc0hhhhhhhhhhhhhhkkmi
-+++++~++__~UhhkLYbO(vtkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhpjvUv/OchhhhdccphhhhhhhhhhhhhhhhhZ
-~~++~~++++vkhhhOvZQ}tvhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhC|uvr-QhhhkJvXbhhhhhhhhhhhhhhhhkk
-~~~~~~~~<rkhkkkpvvXj,JhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhOu|vv}JhhhUcvJkhhhhhhhhhhhhhhhhhk
-<<<~<<~~xkkhhhhhcvvu}ZhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhZvv1fv/kkQcvc0hhhhhhhhhhhhhhhhhkk
-<<<<<<<}kkkhhkhkUuuu_dhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhZvvvr-|bqccccqhhhhhhhhhhhhhhhhkhh
-<><~~~>dhhkhhhhpuuvv~khhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh0vvvvu(pccccckhhhhhhhhhhhhhhhhhhk
-<<<+_~{kkkkhhkbzuvuv_hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhkUvvvvu)UcvvcYhhhhhhhhhhhhhkkkkkdp
-~~~+___?QkkkkkQvuuvu1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqcvvvvv[vcvvcOhhhhhhhhhhhkkC)<Iifr
-++++~~~++~YkkduuuuurxkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhUccvvvv]vvvccphhhhkkkkpz],,,,,,^fr
-~~~~~><~+++,)cuuuuu/LhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhkLccvcvvv]vvvvvbhkhkkd\,,:,:::,:,,]r
->><<<<><~+i,,,;+|xn(dhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhmccvvvvuv[vvvvckkdv]:,::::::::::,,,!
->>>><<<~~~;!,:,::,,Ihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhqcccccvvuv[nrrf};,:::::,,::::;!!lI:,i
-<>>>>><~+<;!:,,,:::+khhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhkZccccYvvvuux/}>>!^:::::,,:,::l!!!!!!Ii
->i>>>>><+!I!l::::::}khhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhkOcccX0cvvvuuunt>_~l,,,:,,,,,I!!!!!!!!I!
-iii>>>>>>"!!!l::::,\khhhkbhhhhhhhhhhhhhhhhhhhhhhhhhhhhkhhhhkCcccOQcvvvvuunn<>~~+",,,,,::!!!!!!!!!!I!
-iiii>>>>:l!!!!I:::,xhhhhhZkkhhhhhhhhhhhhhhhhhhhhhhhhbOdhhkwzccQbQcccvvvuun[l<><~l,,",,I!!!!!!!!!!!l;
-iii>>>i:I!!!!!!I:,;zkhhhhqZkhhhhhhhhhhhhhhhhhhhhkd0YmhhhkQccLkbYcccvvvvun/i<><<<i",,;!!!lll!!!!!!!l,
-iii>>i:!l!l!!!!!I:IJkhhhhbUZhhhhhhhhhhhhhhhhhhpYzcwkhhhwzzOkkhXccvcvvvvuuii>><><I";l!!l,,Il!!!!!!!!,
-!iii>i:!!l:,,,,,,,IOkkkkhhZcCkhhhhhhhhhhhkpQXcvvmkhhhpYUqkkkwccvvvvvvvuu<!<>><<,,llI,",I!!!!!!!!!!!;
-!!iiiIl!!!!!I^,,,,!pkhkhhkhYvcQbkkkkkbdQccccufdhhhhbJZkkhkkZcvvcvvvvvvu)i<<~<<<^,:"",;!!!!!!!!!!!!!l
-!!ii!;!!!!!!lll,+0bkkhhhhhhbXcccXYYzvcccvnrObkhkhdwdhhhhkbUccccvvvvvvuvi~~<<>~+I^",;l!!!!!!!!!!!!!!l
-!!i!,l!!!lllI:!0kkpbhhhhhhhhwcccccvccvrrYkkhhhhhkhhhhhhkZcccccvvvvvunv_l<>>iiiI":I!!!!!!!!!!!!!!!!l:
-!!!:ll!!ll:,::?pkkpnQkkkhhkkkbzvvvvtvpkkkkkhhhhhhhhhhhdzcvvvvvvvvv\nunu[!i>>i!;!!!!!!!!!!!!!!!!l!l:,
-!i!,!lllll,,,,>mkkkzvvYObkkkkkbm0wkkkkkkkhhhhhkhhhhhwYcvvvvvvvu\tuvvvvvu/I>><"!!!!!!!!!!!!!!!!!!;,,l
-!!,I!!!ll;,:,,,QkkkkzfvvvvcCwdbkkkkhkkhhhhhhhkhhhkmzvvvvvvvx|1uvccvvvvvuulii;!!!!!!!!!!!!!!!!lI:,^I!
+   ███░            ███░            ███░            ███░            ███░            ███
+ ███░            ███░            ███░            ███░            ███░            ███░ 
+██░            ███░            ███░            ███░            ███░            ███░   
+░            ███░            ███░            ███░            ███░            ███░     
+            ░░░             ░░░             ░░░             ░░░             ░░░       
+     ███___ ___      ███.__  .__     ███    __      __██          .__███    .___     █
+   ███░/   |   \   ____ |  | |  |  █____   /  \    /  \___________|  |░   __| _/   ███
+ ███░ /    ~    \_/ __ \|  | |  |██/  _ \  \   \/\/   /  _ \_  __ \  |   / __ |  ███░ 
+██░   \    Y    /\  ___/|  |_|  |_(  <_> )  \        (  <_> )  |█\/  |__/ /_/ |███░   
+░      \___|_  /░ \___  >____/____/\____/    \__/\  / \____/|__|░ |____/\____ |█░     
+           ██\/       \/   ███░            ███░   \/       ███░            ██\/       
+         ███░            ███░            ███░            ███░            ███░         
+        ░░░             ░░░             ░░░             ░░░             ░░░           
+ ███             ███             ███             ███             ███             ███  
+██░            ███░            ███░            ███░            ███░            ███░   
+░            ███░            ███░            ███░            ███░            ███░     
+           ███░            ███░            ███░            ███░            ███░            
 
-
-    
 :: UPLINK ESTABLISHED ::
 ```
 
