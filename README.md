@@ -109,13 +109,12 @@ I care about code that survives production — observable behavior, maintainable
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Surasinz&theme=tokyonight&hide_border=true&background=0A0A0F&ring=00F3FF&fire=FF35A2&currStreakLabel=00F3FF" alt="GitHub streak stats">
-</div>
 
-<br>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f3ff?style=for-the-badge&labelColor=0a0a0f">
+<img src="https://img.shields.io/badge/REGION-TH--11-ff35a2?style=for-the-badge&labelColor=0a0a0f">
+<img src="https://img.shields.io/badge/BUILD-PASSING-39ff14?style=for-the-badge&labelColor=0a0a0f">
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00f3ff?style=for-the-badge&labelColor=0a0a0f">
 
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Surasinz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies">
 </div>
 
 <br>
