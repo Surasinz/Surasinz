@@ -115,7 +115,7 @@ I care about code that survives production — observable behavior, maintainable
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Surasinz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Surasinz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies">
 </div>
 
 <br>
