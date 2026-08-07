@@ -105,7 +105,7 @@ I care about code that survives production — observable behavior, maintainable
 </p>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sooty-eta.vercel.app/api/top-langs/?username=Surasinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f3ff&text_color=ffffff&langs_count=8" alt="Top languages">
+<img height="165" src="https://github-readme-stats-sin20.vercel.app/api/top-langs/?username=Surasinz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f3ff&text_color=ffffff&langs_count=8" alt="Top languages">
 </div>
 
 <br>
