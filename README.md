@@ -1,16 +1,7 @@
-<!--
-  GitHub Profile README for https://github.com/Surasinz
-
-  To publish:
-  1. Create a PUBLIC repository named exactly "Surasinz" under @Surasinz.
-  2. Copy this file to that repository as README.md.
-  3. Keep the repository public so GitHub renders it on the profile Overview.
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0a0a0f&fontColor=ff35a2&text=SURACHET%20PANTO&fontSize=38&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%2F%2F%20ENTERPRISE%20BUILDER&descAlignY=56&descSize=15&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=ffffff&fontColor=121212&text=SURACHET%20PANTO&fontSize=38&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%2F%2F%20ENTERPRISE%20BUILDER&descAlignY=56&descSize=15&animation=fadeIn">
-  <img width="100%" alt="Surachet Panto — Software Engineer and Enterprise Builder" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0a0a0f&fontColor=ff35a2&text=SURACHET%20PANTO&fontSize=38&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%2F%2F%20ENTERPRISE%20BUILDER&descAlignY=56&descSize=15&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-light.svg">
+  <img width="100%" alt="Surachet Panto — Software Engineer and Enterprise Builder" src="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/studio-header-dark.svg">
 </picture>
 
 <div align="center">
@@ -36,6 +27,12 @@ I build enterprise applications that connect dependable backend systems with cle
 I care about code that survives production: observable behavior, maintainable architecture, useful tests, and outcomes the business can measure.
 
 ## `02 // Impact signal`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-light.svg">
+  <img width="100%" alt="Engineering impact overview: 85 percent less processing time through targeted queries; over 10,000 records handled daily through a secure data pipeline; 40 percent faster UI through APEX grid optimization; over 40 hours saved monthly through workflow automation; and 99.9 percent real-time payload accuracy" src="https://raw.githubusercontent.com/Surasinz/Surasinz/main/assets/impact-panel-dark.svg">
+</picture>
 
 | Metric | Engineering outcome |
 | :--- | :--- |
@@ -92,8 +89,10 @@ Open to conversations about **enterprise software**, **database performance**, *
 - LinkedIn: [linkedin.com/in/surachet-panto](https://www.linkedin.com/in/surachet-panto/)
 - Email: [surachetpan@hotmail.com](mailto:surachetpan@hotmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ff35a2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=39ff14">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ff35a2">
-</picture>
+---
+
+<div align="center">
+
+`SURACHET_BUILDER_NODE // ONLINE`
+
+</div>
